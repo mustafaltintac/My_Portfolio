@@ -5,7 +5,7 @@ import { Box } from "@mui/material";
 import { CardMedia } from "@mui/material";
 import "./App.css";
 import GitHubIcon from "@mui/icons-material/GitHub";
-import Linkedin from "@mui/icons-material/Linkedin";
+import LinkedinIcon from "@mui/icons-material/Linkedin";
 import Email from "@mui/icons-material/Email";
 import Twitter from "@mui/icons-material/Twitter";
 import PhoneIphoneIcon from "@mui/icons-material/PhoneIphone";
@@ -67,7 +67,7 @@ function Home() {
                   sx={{ cursor: "pointer" }}
                   onClick={handleIconClickGithub}
                 />
-                <Linkedin
+                <LinkedinIcon
                   sx={{ cursor: "pointer" }}
                   onClick={handleIconClickLinkedin}
                 />

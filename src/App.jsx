@@ -16,11 +16,11 @@ function App() {
       <Header />
       <Box className="App" >
           <Routes>
-            <Route path="/" element={<Home  />} />
+            <Route path="/" element={<Anasayfa  />} />
             <Route path="/Projelerim" element={<Projelerim  />} />
             <Route path="/Sertifikalarim" element={<Sertifikalarim  />} />
             <Route path="/Deneyimlerim" element={<Deneyimlerim  />} />
-            <Route path="/Anasayfa" element={<Anasayfa  />} />
+            {/* <Route path="/Anasayfa" element={<Home  />} /> */}
 
           </Routes>
         </Box>
