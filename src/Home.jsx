@@ -5,7 +5,6 @@ import { Box } from "@mui/material";
 import { CardMedia } from "@mui/material";
 import "./App.css";
 import GitHubIcon from "@mui/icons-material/GitHub";
-import LinkedinIcon from "@mui/icons-material/Linkedin";
 import Email from "@mui/icons-material/Email";
 import Twitter from "@mui/icons-material/Twitter";
 import PhoneIphoneIcon from "@mui/icons-material/PhoneIphone";
@@ -48,7 +47,7 @@ function Home() {
                 projenizde değerlendirmek istiyorum. Front-end geliştirmeye olan
                 tutkum, teknolojik yenilikleri takip etme arzum ve sürekli
                 öğrenme isteğimle birleşerek, projenizin başarılı bir şekilde
-                 için katkı enerjik ve hedef odaklı bir geliştirici ekibine
+                için katkı enerjik ve hedef odaklı bir geliştirici ekibine
               </Typography>
               <br />
               <br />
@@ -67,10 +66,7 @@ function Home() {
                   sx={{ cursor: "pointer" }}
                   onClick={handleIconClickGithub}
                 />
-                <LinkedinIcon
-                  sx={{ cursor: "pointer" }}
-                  onClick={handleIconClickLinkedin}
-                />
+
                 <Twitter
                   sx={{ cursor: "pointer" }}
                   onClick={handleIconClickX}
