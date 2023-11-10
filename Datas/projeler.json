@@ -1,0 +1,236 @@
+{
+  "projelerim": [
+    {
+      "id": 1,
+      "proje_adi": "Personel bilgi sistemi",
+      "proje_resmi": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Xm8iIpusGdNiBuC9iiM9o-_3vsLC6jqWLX1D3pCNW1gBjFVxGRWh9pyawGBJIEt-HWo&usqp=CAU",
+      "proje_kisa_aciklama": "Şirket personelinin COVID-19 bilgilerini içeren bir veri tabanı, ilişkisel veri tabanı prensipleri doğrultusunda tasarlanarak, bu verilere erişim sağlayan etkileyici bir web arayüzü geliştirilmiştir.",
+      "proje_uzun_aciklama": "COVID-19 pandemisi sürecinde şirket, çalışanlarıyla ilgili sağlık durumu bilgilerini depolamak amacıyla bir veri tabanı oluşturmayı hedeflemektedir.\n\n- Şirkette çalışan her bir personelin (TC Kimlik No, isim, soyad, kan grubu, doğduğu şehir, pozisyon, maaş, hobileri, lisans, yüksek lisans, doktora) bilgileri depolanacaktır.\n- Her bir çalışanın hastalık bilgileri ayrıca kaydedilecektir (hastalığın adı, hastalığa yakalandığı tarih, reçetedeki ilaçlar ve dozları, semptomları).\n- COVID-19 geçiren çalışanlar için: COVID'e yakalandığı tarih, negatif döndüğü tarih, COVID öncesi belirtileri (Sağlık Bakanlığının bildirdiği semptom listesinden seçilebilenler), temaslı olduğu diğer çalışan bilgileri, aşı durumu (vurulup vurulmadığı, vurulduysa önceden vurulduğu aşılar, kronik hastalığı olup olmadığı) gibi bilgiler tutulacaktır.\n- Çalışanların haftanın hangi günleri ve saatler arasında çalıştıkları ayrıca kaydedilecektir.\n\nBu bilgiler doğrultusunda oluşturulan veritabanının özellikleri aşağıdaki gibidir: (Veritabanı için raporda ER diyagramı ve indirgenmiş tablo tasarımları olmalıdır. Rapor ayrıca kullanıcı arabirimini kullanımına yönelik bilgiler içermelidir)\n\n- Çalışanlarla ilgili tüm özellikler üzerinde sorgulamalar gerçekleştirebilecek yetenekte olmalıdır. Yeni bir çalışan ekleyebilme, var olanı silebilme ve güncelleyebilme yetenekleri bulunmalıdır.\n- Her bir çalışan için yeni hastalık ve reçete bilgileri ekleyebilmeli, güncelleyebilmeli ve gerektiğinde silebilmelidir.\n- Her bir çalışan için COVID bilgilerini ekleyebilmeli, güncelleyebilmeli ve gerektiğinde silebilmelidir.\n- Her bir çalışanın çalışma saatleri bilgilerini ekleyebilmeli, güncelleyebilmeli ve gerektiğinde silebilmelidir.\n- Eğitim durumu ile COVID geçirme arasındaki istatistiksel bilgiler çıkarılabilmelidir.\n- Elemanlar arasında en sık rastlanan üç hastalık türü rapor edilebilmeli ve bu hastalığa sahip olan elemanların listesi çıkarılabilmelidir.\n- Belirli bir şehirde doğan elemanlar arasında en sık görülen ilk üç hastalık rapor edilebilmelidir.\n- En yaygın kullanılan ilk üç ilacı kullanan elemanların COVID geçirme durumu rapor edilebilmelidir.\n- Belirli bir ilacı kullanan çalışanların COVID geçirme durumu rapor edilebilmelidir.\n- Biontech aşısı olan ve belirli bir hastalığı önceden geçirmiş olan çalışanlardan COVID’e yakalananlar listelenebilmelidir.\n- Aşı vurulma durumuna göre COVID hastalığına yakalanma oranı rapor edilebilmelidir.\n- Belirli bir kronik hastalığa göre, çalışanların COVID testinin negatife dönmesi için geçen süre rapor edilebilmelidir.\n- Kan grubuna göre COVID’e yakalanma sıklığı rapor edilebilmelidir.\n- Toplam çalışma süresi ile COVID’e yakalanma arasındaki istatistiksel bilgiler sunulabilmelidir.\n- COVID’e yakalananlar arasında görülen en sık karşılaşılan ilk 3 belirti listelenebilmelidir.\n- En fazla temas bulunan ilk 3 çalışan listelenebilmelidir.\n- Biontech ve Sinovac aşılarının etkinliği, COVID geçirme süresi göz önüne alınarak kıyaslanabilmelidir.\n- Haftasonu çalışan kişiler arasında görülen COVID miktarı rapor edilebilmelidir.\n- Son bir ay içinde en sık hasta olan ilk 10 kişinin COVID'e yakalanma durumları listelenebilmelidir.\n- Aşı vurulmayanlar arasında, en uzun süre COVID geçiren kişinin son 1 yılda geçirdiği hastalıklar ve verilen reçeteler listelenebilmelidir.",
+      "github_linki": "https://github.com/mustafaltintac/Personel_Bilgi_Sistemi"
+    },
+    {
+      "id": 2,
+      "proje_adi": "My Portfolyo",
+      "proje_resmi": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbEkql7cgDI3boRmP0g9rWDVZ1grNa1Rz7Mw&usqp=CAU",
+      "proje_kisa_aciklama": "React kullanılarak geliştirilen kişisel portföy sitesi, modern web tasarımının temel prensiplerini benimseyerek, bileşen tabanlı yapısı ve etkileşimli öğeleriyle dikkat çeker. Modern tasarım, dinamik içerik ve animasyonlar, siteyi bilgi sunma ve etkileşimli kullanıcı deneyimi açısından öne çıkarır. ",
+      "proje_uzun_aciklama": "Bu proje, modern web geliştirme teknolojileri kullanılarak özenle tasarlanmıştır. Temel olarak React ve Material UI kütüphanesi kullanılarak, responsive tasarım prensiplerine uygun bir arayüz oluşturulmuştur. Bu, kullanıcıların farklı cihazlarda rahatça erişebilmelerini sağlamak adına önemlidir.\n\nProje, verilerin dinamik olarak yönetilmesi amacıyla bir API ile entegre edilmiştir. Bu, kullanıcılara siteyi daha etkileşimli ve güncel bir deneyimle sunma imkanı sağlar. Verilerin API üzerinden çekilmesi, içeriğin anlık olarak güncellenmesini mümkün kılar.\n\nTekrar etmeyen bir kod yapısı kullanılarak, proje kodları daha okunabilir ve sürdürülebilir hale getirilmiştir. Bu, geliştirme sürecini kolaylaştırır ve gelecekteki güncellemeleri daha hızlı ve sorunsuz bir şekilde eklemeyi mümkün kılar.\n\nMaterial UI kütüphanesi, kullanıcı arayüzünü görsel olarak çekici hale getirmek adına kullanılmıştır. Bu kütüphane, hazır bileşenler ve tema özellikleri sağlayarak tasarım sürecini hızlandırırken, aynı zamanda modern ve şık bir görünüm elde etmeye yardımcı olur.\n\nHer bir kart öğesi, API üzerinden çekilen verilerle dinamik olarak oluşturulmuştur. Props kullanılarak, bu veriler üstten alta taşınarak kart öğeleri oluşturulur. Bu sayede, yeni özellikler eklenmek istendiğinde sadece JSON dosyasında yapılan değişikliklerle projenin genişletilmesi kolaylaşır.\n\nSonuç olarak, proje hem teknik açıdan güçlü bir temele sahip hem de kullanıcı dostu bir arayüz sunarak, modern web geliştirmenin en iyi uygulamalarını içermektedir.",
+      "github_linki": "https://github.com/mustafaltintac/Personel_Bilgi_Sistemi"
+    },
+    {
+      "id": 3,
+      "proje_adi": "Library",
+      "proje_resmi": "https://media.istockphoto.com/id/1453081662/tr/foto%C4%9Fraf/bookstore-in-the-city-center-of-lisbon.webp?b=1&s=612x612&w=0&k=20&c=5ksx42sMGSzjzbFdc6KT04BG3AZEgo2AAgC9-6UZgrY=",
+      "proje_kisa_aciklama": "Kişisel kütüphanenizi yönetmenize olanak tanıyan ve uygulama üzerinden kütüphanenize kitap ekleyebilir, varolan kitapları düzenleyebilir, silme veya çıkarma işlemleri gerçekleştirebileceğiniz kullanıcı dostu arayüze sahip bir web uygulamasıdır.",
+      "github_linki": "https://github.com/mustafaltintac/React-101-Projects/tree/main/15-LIBRARY/library"
+    },
+    {
+      "id": 4,
+      "proje_adi": "Dijital  Sağlık Asistanı",
+      "proje_resmi": "https://cdni.iconscout.com/illustration/premium/thumb/digital-health-service-9522733-7740733.png",
+      "proje_kisa_aciklama": "Yatalak hastanın vital bulgularını analiz ederek anlık uyarılarla olumsuz reaksiyonlara karşı önlem alır. Aynı zamanda, hastanın tükettiği besinlerin vital bulgular üzerindeki etkilerini değerlendirir, böylece hastayı etkileyen besinleri belirler.",
+      "proje_uzun_aciklama": "Bir veri tabanı, organizasyonların büyük miktarda veriyi düzenleyip depolayabildiği, veriye hızlı erişim sağlayan ve verileri güvenli bir şekilde yöneten önemli bir sistemdir. İlişkisel veri tabanları, verileri tablolar halinde düzenler, her tablo belirli bir veri türünü temsil eder ve tablolar arasında ilişkiler kurulabilir. Örneğin, bir müşteri veri tablosu ile sipariş veri tablosu arasında ilişki kurularak müşterilerin siparişleri takip edilebilir. Belge tabanlı veri tabanları ise verileri JSON veya BSON gibi belge formatlarında saklar, bu da verilerin daha esnek bir şekilde depolanmasını sağlar. Veri tabanları, karmaşık sorgular kullanarak veri analizi yapmayı mümkün kılar ve verilerin güvenliğini sağlamak için yetkilendirme ve kimlik doğrulama gibi güvenlik önlemlerini içerebilir. Veri tabanları, web uygulamaları, mobil uygulamalar, iş zekası sistemleri ve daha birçok alanda yaygın olarak kullanılır, bu da veri yönetimini ve analizini büyük ölçüde kolaylaştırır. Bu nedenle, doğru bir şekilde yapılandırılan ve etkili bir şekilde kullanılan veri tabanları, organizasyonlar için kritik bir öneme sahiptir.",
+      "github_linki": "https://github.com/mustafaltintac/Personel_Bilgi_Sistemi"
+    }
+  ],
+  "sertifikalarim": [
+    {
+      "id": 1,
+      "serfika_adi": "sertifika_adi",
+      "sertifika_resim_linki": "https://udemy-certificate.s3.amazonaws.com/image/UC-459b8f39-344a-43ab-86d3-f1d8daff02da.jpg?v=1699357304000",
+      "sertifika_linki": "https://drive.google.com/file/d/1d4FoB4h74BzqtPE89-fUPisGzIUFjvFx/view?usp=sharing",
+      "sertifika_kurumu": "UDEMY"
+    },
+    {
+      "id": 2,
+      "serfika_adi": "sertifika_adi",
+      "sertifika_resim_linki": "https://4.downloader.disk.yandex.com.tr/preview/220135fe22b1f589c4c663a5e145e19543d2ef378cdfebd0fbf4e3f87023b3ca/inf/HfTTYJxeeXBnW6xw2xE3z0oGttvXA9yIBl8j0x6GMz4duZUzoNRgSRl73Wlo6CEsb96-jXboDb447ZAgkPb3ZQ%3D%3D?uid=1502042344&filename=13.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1686x840",
+      "sertifika_linki": "https://disk.yandex.com.tr/i/2HoOCIC13A6Aiw",
+      "sertifika_kurumu": "BTK AKADEMİ"
+    },
+    {
+      "id": 3,
+      "serfika_adi": "sertifika_adi",
+      "sertifika_resim_linki": "https://1.downloader.disk.yandex.com.tr/preview/971835e34a8f52d7b1014f28d752068ebf86fcec5481c11eeaaa732f1ced1e2d/inf/ukJHBZsdRMRdzx7kZt5TrB1xq3soxjzmI5Afptr233BzTq_CaQ0FPn_et6B0JTuVfgC9tqBX7_rVLGdnPWf7Xw%3D%3D?uid=1502042344&filename=6.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1349x689",
+      "sertifika_linki": "https://disk.yandex.com.tr/i/FOZv8VxSun4GPw",
+      "sertifika_kurum": "Udemy"
+    },
+    {
+      "id": 4,
+      "serfika_adi": "sertifika_adi",
+      "sertifika_resim_linki": "https://2.downloader.disk.yandex.com.tr/preview/e0a52e880f03794770f83aba599d615f50e516ae4c0110e72e31eae8e4c49921/inf/piiY6rcRVDBnoNRF8sviiUBCPXzgefXvuSgmGUCEhHFLg1REziw04DAGZXUZnSk8au3yUAM6Q61Hh-MSu7Er6g%3D%3D?uid=1502042344&filename=7.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1686x840",
+      "sertifika_linki": "https://disk.yandex.com.tr/i/FOZv8VxSun4GPw",
+      "sertifika_kurum": "Udemy"
+    },
+    {
+      "id": 5,
+      "serfika_adi": "sertifika_adi",
+      "sertifika_resim_linki": "https://2.downloader.disk.yandex.com.tr/preview/aa56504ba65190fa4019f5e222e4522a513f169345f83d97a223d6596343e454/inf/qyKTXSQ4IIGUTuTb5ZI7CIpTpXt9MohJXwz3BnM9v1q3vkgpRgSt3chjM4K7sSoQFFtAV6lE7T8YwW36YR2Uig%3D%3D?uid=1502042344&filename=12.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1686x840",
+      "sertifika_linki": "https://disk.yandex.com.tr/i/iOP6xP0SU6D8mQ",
+      "sertifika_kurum": "BTK AKADEMİ"
+    },
+    {
+      "id": 6,
+      "serfika_adi": "sertifika_adi",
+      "sertifika_resim_linki": "https://3.downloader.disk.yandex.com.tr/preview/e4457d637fa488b07040578dd651cdaae742be28219b3cfb28ea5e13701692b4/inf/KEGLze4C6uj6eTTsimXkbh1xq3soxjzmI5Afptr233CmjuA426UThpX7BGeny-qA3qo4P_pUn_X_05CtSZI6Tw%3D%3D?uid=1502042344&filename=3.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1686x840 ",
+      "sertifika_linki": "https://disk.yandex.com.tr/i/DuNQrODhfOgGzQ",
+      "sertifika_kurum": "Udemy"
+    },
+    {
+      "id": 7,
+      "serfika_adi": "sertifika_adi",
+      "sertifika_resim_linki": "https://3.downloader.disk.yandex.com.tr/preview/080b3b375ea25b8c7dcb27affd5dc1d756adaa3b676a2edff1cce1a8823916dc/inf/CeTN0HPqFdNSwYiTfnoosiU278wOQH-nq_S4XBnVkqMI_LmYUWQKE23qV7yT_n67FUnkG0uwqBjW6b1yBsAMIA%3D%3D?uid=1502042344&filename=1.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1686x840",
+      "sertifika_linki": "https://disk.yandex.com.tr/i/hmtcLHIqBCqVyg",
+      "sertifika_kurum": "Udemy"
+    },
+    {
+      "id": 8,
+      "serfika_adi": "sertifika_adi",
+      "sertifika_resim_linki": "https://4.downloader.disk.yandex.com.tr/preview/28376ad886f3dfdc4b8a27f1dc71de8c1720b1ef85178a20cd6aebf31357e02e/inf/mtEOZ40Q7Hg_1VgE1zEMv4pTpXt9MohJXwz3BnM9v1onLOu5s2e1rXUqwlMJ6R3LhuUw2qFvuq1cplaGKci0NQ%3D%3D?uid=1502042344&filename=11.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1686x840",
+      "sertifika_linki": "https://disk.yandex.com.tr/i/kphoOWkb-YtaQA",
+      "sertifika_kurum": "BTK AKADEMİ"
+    },
+    {
+      "id": 9,
+      "serfika_adi": "sertifika_adi",
+      "sertifika_resim_linki": "https://2.downloader.disk.yandex.com.tr/preview/055d234789e7266c01bb2baa8d8caa54285b7604129580e451bd4da67487bda6/inf/lKw0NF7e4FDG2bvYyDFLJopTpXt9MohJXwz3BnM9v1pu1wVOzYFehYhLovugAOTTVgHV-HmuVimZ74ipDyle2g%3D%3D?uid=1502042344&filename=4.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1686x840",
+      "sertifika_linki": "https://disk.yandex.com.tr/i/sjyK62coCi4cwQ",
+      "sertifika_kurum": "Udemy"
+    },
+    {
+      "id": 10,
+      "serfika_adi": "sertifika_adi",
+      "sertifika_resim_linki": "https://3.downloader.disk.yandex.com.tr/preview/4adad7241ea741c8502465818aaaf13fa523ac6956982b4c8f958b2d5134d250/inf/r0Ttj3WvBVAC6pw-yDLiIIaTbBCzkxDVTv_iig-uIx8oovkqd03IjNBU4bvfK1Xrr-K9cfSaHKC9JsK25JynaQ%3D%3D?uid=1502042344&filename=5.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1686x840",
+      "sertifika_linki": "https://disk.yandex.com.tr/i/1aY7WQp_qzyCnA",
+      "sertifika_kurum": "Udemy"
+    },
+    {
+      "id": 11,
+      "serfika_adi": "sertifika_adi",
+      "sertifika_resim_linki": "https://3.downloader.disk.yandex.com.tr/preview/3d85c38d063f110281d34fbd80cc202c9ac6e0b671770a62bfe59ac9bdf25def/inf/9ZZHJUAtSkTrySJDzZsAUST5EcMs4A75-G12NnpWIwOaYEB9a41tJ1Oz74cJKs1FpXE-z-ZSj6Va62udeym9cQ%3D%3D?uid=1502042344&filename=14.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1686x840",
+      "sertifika_linki": "https://disk.yandex.com.tr/i/6A4PFFhiEqjSlw",
+      "sertifika_kurum": "Hacker Rank"
+    },
+    {
+      "id": 12,
+      "serfika_adi": "sertifika_adi",
+      "sertifika_resim_linki": "https://4.downloader.disk.yandex.com.tr/preview/fc1a2cee78c244a566f512bf97670cfb239beb8565dc16e385f9a5ca9ac70823/inf/j6vZKa5OtSaCy_iFQ_0mkWi3lMEK4f3mg_mkO3vEwXTFM8A6p8-Gtf_IVtw7qYwYPy0f8trEyo8p8t0gG8X5-w%3D%3D?uid=1502042344&filename=10.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1686x840",
+      "sertifika_linki": "https://disk.yandex.com.tr/i/y6vKVyLW1yTPiQ",
+      "sertifika_kurum": "BTK AKADEMİ"
+    },
+    {
+      "id": 13,
+      "serfika_adi": "sertifika_adi",
+      "sertifika_resim_linki": "https://4.downloader.disk.yandex.com.tr/preview/eea19d566228bbe5eb8681ec34ace30c465dbc7f2a9e41ca28293e96f737f231/inf/0SYmt_V8jT7LMLfDvR1xHalf4g3WoUC0QvfXQg2vDFJuu1gT3v15swCJ5VlEkOdhFqLAG2vbryRYlbKX-nlXrA%3D%3D?uid=1502042344&filename=9.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1686x840",
+      "sertifika_linki": "https://disk.yandex.com.tr/i/CdINR7bnuS5hRA",
+      "sertifika_kurum": "BTK AKADEMİ"
+    }
+  ],
+  "egitim": [
+    {
+      "id": 1,
+      "okul_turu": "lise",
+      "okul_adi": "Hüsnü M. Özyeğin Anadolu Lisesi",
+      "bolum": "Sayısal",
+      "derece": "80",
+      "mezuniyet_tarihi": "2013-2017",
+      "icon": "https://cdn3.iconfinder.com/data/icons/school-pack-3-1/512/5-512.png"
+    },
+    {
+      "id": 2,
+      "okul_turu": "Üniversite",
+      "okul_adi": "Karadeniz Teknik Üniversitesi ",
+      "bolum": "Yabancı Dil Yüksek Okulu",
+      "derece": "B1",
+      "mezuniyet_tarihi": "2019-2020",
+      "icon": "https://cdn3.iconfinder.com/data/icons/smart-city-6/100/smart-city-solid2-09-256.png"
+    },
+    {
+      "id": 3,
+      "okul_turu": "Üniversite",
+      "okul_adi": "Karadeniz Teknik Üniversitesi",
+      "bolum": "Bilgisayar Mühendisliği",
+      "derece": "2.93",
+      "mezuniyet_tarihi": "2020-2023",
+      "icon": "https://cdn3.iconfinder.com/data/icons/smart-city-6/100/smart-city-solid2-09-256.png"
+    }
+  ],
+  "calismalarim": [
+    {
+      "id": 1,
+      "sirket": "KTÜ UZEM",
+      "pozisyon": "Stayer",
+      "gorev": "Flutter Developer",
+      "tarih": "2021",
+      "icon": "https://www.ktu.edu.tr/dosyalar/kimlik_71a52.jpg"
+    },
+    {
+      "id": 2,
+      "sirket": "Türkiye Teknoloji Vakfı (T3 Vakfı)",
+      "pozisyon": "Eğitmen-Bursiyer",
+      "gorev": "-",
+      "tarih": "2022",
+      "icon": "https://media.licdn.com/dms/image/C4D0BAQGJZD3KpUFfJQ/company-logo_100_100/0/1680025199327/t3_vakfi_logo?e=1707350400&v=beta&t=oGHIn84fu_2XXsoL90pjGve8ROm86SIi7PG7tOB809o"
+    },
+    {
+      "id": 3,
+      "sirket": "Tübitak",
+      "pozisyon": "Star-C Bursiyer",
+      "gorev": "Masaüstü Uygulama Geliştiricisi",
+      "tarih": "2022",
+      "icon": "https://media.licdn.com/dms/image/D4D0BAQEBvzGdpiSPXw/company-logo_100_100/0/1698329806582?e=1707350400&v=beta&t=JgMfcxoiLLT5rCrIb5gnivo6Wk5k9DRTLgyxA8kYlhs"
+    },
+    {
+      "id": 4,
+      "sirket": "Ktü Yapay Zeka Kulübü",
+      "pozisyon": "Yönetici",
+      "gorev": "Başkan",
+      "tarih": "2022",
+      "icon": "https://media.licdn.com/dms/image/C4D0BAQGAGhjaUUCIng/company-logo_200_200/0/1635960505742/ktuyapayzeka_logo?e=1707350400&v=beta&t=j7jO-Vu0MvulzptDwusHmT-CxzAeigy_c5H0_NPYVxU"
+    },
+    {
+      "id": 5,
+      "sirket": "T.C. Emlak Katılım Bankası",
+      "pozisyon": "Stajyer",
+      "gorev": "React Front-End Devoloper",
+      "tarih": "2023",
+      "icon": "https://media.licdn.com/dms/image/D4D0BAQFvMgy_810bhw/company-logo_200_200/0/1698150407462/tremlakkatilim_logo?e=1707350400&v=beta&t=aHv9P-xggZXQGEfNQY752MCaLKKGkfrLRrJspYRbQnU"
+    }
+  ],
+  "yeteneklerim": [
+    {
+      "id": 1,
+      "dil": "C & C++",
+      "icon": "https://img.icons8.com/?size=60&id=40669&format=png"
+    },
+    {
+      "id": 2,
+      "dil": "C#",
+      "icon": "https://img.icons8.com/?size=48&id=55251&format=png"
+    },
+    {
+      "id": 3,
+      "dil": "Html-Css-Js",
+      "icon": "https://img.icons8.com/?size=48&id=108784&format=png"
+    },
+    {
+      "id": 4,
+      "dil": "React",
+      "icon": "https://img.icons8.com/?size=80&id=wPohyHO_qO1a&format=png"
+    },
+    {
+      "id": 5,
+      "dil": "SQL",
+      "icon": "https://img.icons8.com/?size=64&id=49114&format=png"
+    },
+    {
+      "id": 6,
+      "dil": "Linux",
+      "icon": "https://img.icons8.com/?size=48&id=17842&format=png"
+    },
+    {
+      "id": 7,
+      "dil": "Python",
+      "icon": "https://img.icons8.com/?size=48&id=13441&format=png"
+    }
+  ]
+}
