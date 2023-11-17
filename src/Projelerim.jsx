@@ -10,7 +10,7 @@ function Projelerim() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get("../../Datas/projeler.json"); // JSON dosyasının yolu
+        const response = await axios.get("https://github.com/mustafaltintac/My_Portfolio/blob/main/Datas/projeler.json"); // JSON dosyasının yolu
         setDatas(response.data.projelerim); // JSON dosyasından gelen veriyi state'e kaydet
       } catch (error) {
         console.error("Veri çekme hatası: ", error);
@@ -19,8 +19,6 @@ function Projelerim() {
 
     fetchData(); // fetchData fonksiyonunu çağırarak veriyi çek
   }, []); //
-
-  console.log(datas)
 
   return (
     <Grid container spacing={2} justifyContent={"center"}>
