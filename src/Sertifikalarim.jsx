@@ -21,6 +21,7 @@ function Sertifikalarim () {
   }, []); //
 
   console.log("sertifikalarim çalisiyor")
+  console.log(datas[0])
   return (
     <Grid container spacing={2} justifyContent={"center"}>
       {datas.map((data) => (
