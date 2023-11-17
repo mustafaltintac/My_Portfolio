@@ -4,6 +4,8 @@ import axios from "axios";
 import { useState,useEffect } from "react";
 import Yetenek_Kart from "./Yetenek_Kart";
 
+
+
 function Yeteneklerim() {
 
   const [datas, setDatas] = useState([]);
@@ -11,9 +13,11 @@ function Yeteneklerim() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get("http://localhost:3000/yeteneklerim"); // JSON dosyasının yolu
-        setDatas(response.data); // JSON dosyasından gelen veriyi state'e kaydet
+        const response = await axios.get("../../Datas/projeler.json"); // JSON dosyasının yolu
+        setDatas(response.data.yeteneklerim); // JSON dosyasından gelen veriyi state'e kaydet
       } catch (error) {
+        const response = await axios.get(""); // JSON dosyasının yolu
+
         console.error("Veri çekme hatası: ", error);
       }
     };

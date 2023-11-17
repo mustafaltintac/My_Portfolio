@@ -30,6 +30,13 @@
       "proje_kisa_aciklama": "Yatalak hastanın vital bulgularını analiz ederek anlık uyarılarla olumsuz reaksiyonlara karşı önlem alır. Aynı zamanda, hastanın tükettiği besinlerin vital bulgular üzerindeki etkilerini değerlendirir, böylece hastayı etkileyen besinleri belirler.",
       "proje_uzun_aciklama": "Bir veri tabanı, organizasyonların büyük miktarda veriyi düzenleyip depolayabildiği, veriye hızlı erişim sağlayan ve verileri güvenli bir şekilde yöneten önemli bir sistemdir. İlişkisel veri tabanları, verileri tablolar halinde düzenler, her tablo belirli bir veri türünü temsil eder ve tablolar arasında ilişkiler kurulabilir. Örneğin, bir müşteri veri tablosu ile sipariş veri tablosu arasında ilişki kurularak müşterilerin siparişleri takip edilebilir. Belge tabanlı veri tabanları ise verileri JSON veya BSON gibi belge formatlarında saklar, bu da verilerin daha esnek bir şekilde depolanmasını sağlar. Veri tabanları, karmaşık sorgular kullanarak veri analizi yapmayı mümkün kılar ve verilerin güvenliğini sağlamak için yetkilendirme ve kimlik doğrulama gibi güvenlik önlemlerini içerebilir. Veri tabanları, web uygulamaları, mobil uygulamalar, iş zekası sistemleri ve daha birçok alanda yaygın olarak kullanılır, bu da veri yönetimini ve analizini büyük ölçüde kolaylaştırır. Bu nedenle, doğru bir şekilde yapılandırılan ve etkili bir şekilde kullanılan veri tabanları, organizasyonlar için kritik bir öneme sahiptir.",
       "github_linki": "https://github.com/mustafaltintac/Personel_Bilgi_Sistemi"
+    },    {
+      "id": 5,
+      "proje_adi": "Orhan  Sağlık Asistanı",
+      "proje_resmi": "https://cdni.iconscout.com/illustration/premium/thumb/digital-health-service-9522733-7740733.png",
+      "proje_kisa_aciklama": "Yatalak hastanın vital bulgularını analiz ederek anlık uyarılarla olumsuz reaksiyonlara karşı önlem alır. Aynı zamanda, hastanın tükettiği besinlerin vital bulgular üzerindeki etkilerini değerlendirir, böylece hastayı etkileyen besinleri belirler.",
+      "proje_uzun_aciklama": "Bir veri tabanı, organizasyonların büyük miktarda veriyi düzenleyip depolayabildiği, veriye hızlı erişim sağlayan ve verileri güvenli bir şekilde yöneten önemli bir sistemdir. İlişkisel veri tabanları, verileri tablolar halinde düzenler, her tablo belirli bir veri türünü temsil eder ve tablolar arasında ilişkiler kurulabilir. Örneğin, bir müşteri veri tablosu ile sipariş veri tablosu arasında ilişki kurularak müşterilerin siparişleri takip edilebilir. Belge tabanlı veri tabanları ise verileri JSON veya BSON gibi belge formatlarında saklar, bu da verilerin daha esnek bir şekilde depolanmasını sağlar. Veri tabanları, karmaşık sorgular kullanarak veri analizi yapmayı mümkün kılar ve verilerin güvenliğini sağlamak için yetkilendirme ve kimlik doğrulama gibi güvenlik önlemlerini içerebilir. Veri tabanları, web uygulamaları, mobil uygulamalar, iş zekası sistemleri ve daha birçok alanda yaygın olarak kullanılır, bu da veri yönetimini ve analizini büyük ölçüde kolaylaştırır. Bu nedenle, doğru bir şekilde yapılandırılan ve etkili bir şekilde kullanılan veri tabanları, organizasyonlar için kritik bir öneme sahiptir.",
+      "github_linki": "https://github.com/mustafaltintac/Personel_Bilgi_Sistemi"
     }
   ],
   "sertifikalarim": [
@@ -43,7 +50,7 @@
     {
       "id": 2,
       "serfika_adi": "sertifika_adi",
-      "sertifika_resim_linki": "https://4.downloader.disk.yandex.com.tr/preview/220135fe22b1f589c4c663a5e145e19543d2ef378cdfebd0fbf4e3f87023b3ca/inf/HfTTYJxeeXBnW6xw2xE3z0oGttvXA9yIBl8j0x6GMz4duZUzoNRgSRl73Wlo6CEsb96-jXboDb447ZAgkPb3ZQ%3D%3D?uid=1502042344&filename=13.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1686x840",
+      "sertifika_resim_linki": "./13.PNG",
       "sertifika_linki": "https://disk.yandex.com.tr/i/2HoOCIC13A6Aiw",
       "sertifika_kurumu": "BTK AKADEMİ"
     },

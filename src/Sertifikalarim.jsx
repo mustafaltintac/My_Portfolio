@@ -10,8 +10,8 @@ function Sertifikalarim () {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get("http://localhost:3000/sertifikalarim"); // JSON dosyasının yolu
-        setDatas(response.data); // JSON dosyasından gelen veriyi state'e kaydet
+        const response = await axios.get("../../Datas/projeler.json"); // JSON dosyasının yolu
+        setDatas(response.data.sertifikalarim); // JSON dosyasından gelen veriyi state'e kaydet
       } catch (error) {
         console.error("Veri çekme hatası: ", error);
       }
