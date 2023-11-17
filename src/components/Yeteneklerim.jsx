@@ -13,7 +13,7 @@ function Yeteneklerim() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get("../../Datas/projeler.json"); // JSON dosyasının yolu
+        const response = await axios.get("https://github.com/mustafaltintac/My_Portfolio/blob/main/Datas/projeler.json"); // JSON dosyasının yolu
         setDatas(response.data.yeteneklerim); // JSON dosyasından gelen veriyi state'e kaydet
       } catch (error) {
         const response = await axios.get(""); // JSON dosyasının yolu
