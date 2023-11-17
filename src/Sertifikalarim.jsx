@@ -20,6 +20,7 @@ function Sertifikalarim () {
     fetchData(); // fetchData fonksiyonunu çağırarak veriyi çek
   }, []); //
 
+  console.log("sertifikalarim çalisiyor")
   return (
     <Grid container spacing={2} justifyContent={"center"}>
       {datas.map((data) => (
