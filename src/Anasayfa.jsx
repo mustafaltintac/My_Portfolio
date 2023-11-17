@@ -4,13 +4,10 @@ import Box from "@mui/material/Box";
 import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
-import IconButton from "@mui/material/IconButton";
 import Typography from "@mui/material/Typography";
-import SkipPreviousIcon from "@mui/icons-material/SkipPrevious";
-import PlayArrowIcon from "@mui/icons-material/PlayArrow";
 import { Stack } from "@mui/material";
 import GitHubIcon from "@mui/icons-material/GitHub";
-import Linkedin from "@mui/icons-material/Linkedin";
+// import Linkedin from "@mui/icons-material/Linkedin";
 import Email from "@mui/icons-material/Email";
 import Twitter from "@mui/icons-material/Twitter";
 import PhoneIphoneIcon from "@mui/icons-material/PhoneIphone";
@@ -24,9 +21,9 @@ export default function MediaControlCard() {
   const handleIconClickGithub = () => {
     window.open("https://github.com/mustafaltintac", "_blank");
   };
-  const handleIconClickLinkedin = () => {
-    window.open("https://www.linkedin.com/in/mustafaltintac/", "_blank");
-  };
+  // const handleIconClickLinkedin = () => {
+  //   window.open("https://www.linkedin.com/in/mustafaltintac/", "_blank");
+  // };
   const handleIconClickX = () => {
     window.open("https://www.x.com/mustafaltintac/", "_blank");
   };
@@ -82,10 +79,10 @@ export default function MediaControlCard() {
             sx={{ cursor: "pointer" }}
             onClick={handleIconClickGithub}
           />
-          <Linkedin
+          {/* <Linkedin
             sx={{ cursor: "pointer" }}
             onClick={handleIconClickLinkedin}
-          />
+          /> */}
           <Twitter sx={{ cursor: "pointer" }} onClick={handleIconClickX} />
           <PhoneIphoneIcon
             sx={{ cursor: "pointer" }}
