@@ -12,9 +12,12 @@ function Projelerim() {
       try {
         const response = await axios.get("https://github.com/mustafaltintac/My_Portfolio/blob/main/Datas/projeler.json"); // JSON dosyasının yolu
         setDatas(response.data.projelerim); // JSON dosyasından gelen veriyi state'e kaydet
+        console.log(typeof(response.data.projelerim))
+
       } catch (error) {
         const response = await axios.get("../../Datas/projeler.json"); // JSON dosyasının yolu
         setDatas(response.data.projelerim); // JSON dosyasından gelen veriyi state'e kaydet
+        console.log(typeof(response.data.projelerim))
         console.error("Veri çekme hatası: ", error);
       }
     };
