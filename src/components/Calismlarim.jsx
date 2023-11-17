@@ -11,8 +11,10 @@ function Calismalarim() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get("../../Datas/projeler.json"); // JSON dosyasının yolu
+        const response = await axios.get("https://github.com/mustafaltintac/My_Portfolio/blob/main/Datas/projeler.json"); // JSON dosyasının yolu
         setDatas(response.data.calismalarim); // JSON dosyasından gelen veriyi state'e kaydet
+        console.error("Projeler çalıştı: ", error);
+
       } catch (error) {
         console.error("Veri çekme hatası: ", error);
       }
