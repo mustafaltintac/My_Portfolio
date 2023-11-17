@@ -42,91 +42,91 @@
   "sertifikalarim": [
     {
       "id": 1,
-      "serfika_adi": "sertifika_adi",
+      "sertifika_adi": "sertifika_adi",
       "sertifika_resim_linki": "https://udemy-certificate.s3.amazonaws.com/image/UC-459b8f39-344a-43ab-86d3-f1d8daff02da.jpg?v=1699357304000",
       "sertifika_linki": "https://drive.google.com/file/d/1d4FoB4h74BzqtPE89-fUPisGzIUFjvFx/view?usp=sharing",
       "sertifika_kurumu": "UDEMY"
     },
     {
       "id": 2,
-      "serfika_adi": "sertifika_adi",
+      "ssertifika_adi": "sertifika_adi",
       "sertifika_resim_linki": "./13.PNG",
       "sertifika_linki": "https://disk.yandex.com.tr/i/2HoOCIC13A6Aiw",
       "sertifika_kurumu": "BTK AKADEMİ"
     },
     {
       "id": 3,
-      "serfika_adi": "sertifika_adi",
+      "sertifika_adi": "sertifika_adi",
       "sertifika_resim_linki": "https://1.downloader.disk.yandex.com.tr/preview/971835e34a8f52d7b1014f28d752068ebf86fcec5481c11eeaaa732f1ced1e2d/inf/ukJHBZsdRMRdzx7kZt5TrB1xq3soxjzmI5Afptr233BzTq_CaQ0FPn_et6B0JTuVfgC9tqBX7_rVLGdnPWf7Xw%3D%3D?uid=1502042344&filename=6.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1349x689",
       "sertifika_linki": "https://disk.yandex.com.tr/i/FOZv8VxSun4GPw",
       "sertifika_kurumu": "Udemy"
     },
     {
       "id": 4,
-      "serfika_adi": "sertifika_adi",
+      "sertifika_adi": "sertifika_adi",
       "sertifika_resim_linki": "https://2.downloader.disk.yandex.com.tr/preview/e0a52e880f03794770f83aba599d615f50e516ae4c0110e72e31eae8e4c49921/inf/piiY6rcRVDBnoNRF8sviiUBCPXzgefXvuSgmGUCEhHFLg1REziw04DAGZXUZnSk8au3yUAM6Q61Hh-MSu7Er6g%3D%3D?uid=1502042344&filename=7.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1686x840",
       "sertifika_linki": "https://disk.yandex.com.tr/i/FOZv8VxSun4GPw",
       "sertifika_kurumu": "Udemy"
     },
     {
       "id": 5,
-      "serfika_adi": "sertifika_adi",
+      "sertifika_adi": "sertifika_adi",
       "sertifika_resim_linki": "https://2.downloader.disk.yandex.com.tr/preview/aa56504ba65190fa4019f5e222e4522a513f169345f83d97a223d6596343e454/inf/qyKTXSQ4IIGUTuTb5ZI7CIpTpXt9MohJXwz3BnM9v1q3vkgpRgSt3chjM4K7sSoQFFtAV6lE7T8YwW36YR2Uig%3D%3D?uid=1502042344&filename=12.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1686x840",
       "sertifika_linki": "https://disk.yandex.com.tr/i/iOP6xP0SU6D8mQ",
       "sertifika_kurumu": "BTK AKADEMİ"
     },
     {
       "id": 6,
-      "serfika_adi": "sertifika_adi",
+      "sertifika_adi": "sertifika_adi",
       "sertifika_resim_linki": "https://3.downloader.disk.yandex.com.tr/preview/e4457d637fa488b07040578dd651cdaae742be28219b3cfb28ea5e13701692b4/inf/KEGLze4C6uj6eTTsimXkbh1xq3soxjzmI5Afptr233CmjuA426UThpX7BGeny-qA3qo4P_pUn_X_05CtSZI6Tw%3D%3D?uid=1502042344&filename=3.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1686x840 ",
       "sertifika_linki": "https://disk.yandex.com.tr/i/DuNQrODhfOgGzQ",
       "sertifika_kurumu": "Udemy"
     },
     {
       "id": 7,
-      "serfika_adi": "sertifika_adi",
+      "sertifika_adi": "sertifika_adi",
       "sertifika_resim_linki": "https://3.downloader.disk.yandex.com.tr/preview/080b3b375ea25b8c7dcb27affd5dc1d756adaa3b676a2edff1cce1a8823916dc/inf/CeTN0HPqFdNSwYiTfnoosiU278wOQH-nq_S4XBnVkqMI_LmYUWQKE23qV7yT_n67FUnkG0uwqBjW6b1yBsAMIA%3D%3D?uid=1502042344&filename=1.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1686x840",
       "sertifika_linki": "https://disk.yandex.com.tr/i/hmtcLHIqBCqVyg",
       "sertifika_kurumu": "Udemy"
     },
     {
       "id": 8,
-      "serfika_adi": "sertifika_adi",
+      "sertifika_adi": "sertifika_adi",
       "sertifika_resim_linki": "https://4.downloader.disk.yandex.com.tr/preview/28376ad886f3dfdc4b8a27f1dc71de8c1720b1ef85178a20cd6aebf31357e02e/inf/mtEOZ40Q7Hg_1VgE1zEMv4pTpXt9MohJXwz3BnM9v1onLOu5s2e1rXUqwlMJ6R3LhuUw2qFvuq1cplaGKci0NQ%3D%3D?uid=1502042344&filename=11.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1686x840",
       "sertifika_linki": "https://disk.yandex.com.tr/i/kphoOWkb-YtaQA",
       "sertifika_kurumu": "BTK AKADEMİ"
     },
     {
       "id": 9,
-      "serfika_adi": "sertifika_adi",
+      "sertifika_adi": "sertifika_adi",
       "sertifika_resim_linki": "https://2.downloader.disk.yandex.com.tr/preview/055d234789e7266c01bb2baa8d8caa54285b7604129580e451bd4da67487bda6/inf/lKw0NF7e4FDG2bvYyDFLJopTpXt9MohJXwz3BnM9v1pu1wVOzYFehYhLovugAOTTVgHV-HmuVimZ74ipDyle2g%3D%3D?uid=1502042344&filename=4.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1686x840",
       "sertifika_linki": "https://disk.yandex.com.tr/i/sjyK62coCi4cwQ",
       "sertifika_kurumu": "Udemy"
     },
     {
       "id": 10,
-      "serfika_adi": "sertifika_adi",
+      "sertifika_adi": "sertifika_adi",
       "sertifika_resim_linki": "https://3.downloader.disk.yandex.com.tr/preview/4adad7241ea741c8502465818aaaf13fa523ac6956982b4c8f958b2d5134d250/inf/r0Ttj3WvBVAC6pw-yDLiIIaTbBCzkxDVTv_iig-uIx8oovkqd03IjNBU4bvfK1Xrr-K9cfSaHKC9JsK25JynaQ%3D%3D?uid=1502042344&filename=5.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1686x840",
       "sertifika_linki": "https://disk.yandex.com.tr/i/1aY7WQp_qzyCnA",
       "sertifika_kurumu": "Udemy"
     },
     {
       "id": 11,
-      "serfika_adi": "sertifika_adi",
+      "sertifika_adi": "sertifika_adi",
       "sertifika_resim_linki": "https://3.downloader.disk.yandex.com.tr/preview/3d85c38d063f110281d34fbd80cc202c9ac6e0b671770a62bfe59ac9bdf25def/inf/9ZZHJUAtSkTrySJDzZsAUST5EcMs4A75-G12NnpWIwOaYEB9a41tJ1Oz74cJKs1FpXE-z-ZSj6Va62udeym9cQ%3D%3D?uid=1502042344&filename=14.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1686x840",
       "sertifika_linki": "https://disk.yandex.com.tr/i/6A4PFFhiEqjSlw",
       "sertifika_kurumu": "Hacker Rank"
     },
     {
       "id": 12,
-      "serfika_adi": "sertifika_adi",
+      "sertifika_adi": "sertifika_adi",
       "sertifika_resim_linki": "https://4.downloader.disk.yandex.com.tr/preview/fc1a2cee78c244a566f512bf97670cfb239beb8565dc16e385f9a5ca9ac70823/inf/j6vZKa5OtSaCy_iFQ_0mkWi3lMEK4f3mg_mkO3vEwXTFM8A6p8-Gtf_IVtw7qYwYPy0f8trEyo8p8t0gG8X5-w%3D%3D?uid=1502042344&filename=10.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1686x840",
       "sertifika_linki": "https://disk.yandex.com.tr/i/y6vKVyLW1yTPiQ",
       "sertifika_kurumu": "BTK AKADEMİ"
     },
     {
       "id": 13,
-      "serfika_adi": "sertifika_adi",
+      "sertifika_adi": "sertifika_adi",
       "sertifika_resim_linki": "https://4.downloader.disk.yandex.com.tr/preview/eea19d566228bbe5eb8681ec34ace30c465dbc7f2a9e41ca28293e96f737f231/inf/0SYmt_V8jT7LMLfDvR1xHalf4g3WoUC0QvfXQg2vDFJuu1gT3v15swCJ5VlEkOdhFqLAG2vbryRYlbKX-nlXrA%3D%3D?uid=1502042344&filename=9.PNG&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1502042344&tknv=v2&size=1686x840",
       "sertifika_linki": "https://disk.yandex.com.tr/i/CdINR7bnuS5hRA",
       "sertifika_kurumu": "BTK AKADEMİ"
